@@ -1,0 +1,17 @@
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\bin\Release\net6.0-windows\pixeltrigger.exe
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\bin\Release\net6.0-windows\pixeltrigger.deps.json
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\bin\Release\net6.0-windows\pixeltrigger.runtimeconfig.json
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\bin\Release\net6.0-windows\pixeltrigger.dll
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\bin\Release\net6.0-windows\pixeltrigger.pdb
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\obj\Release\net6.0-windows\pixeltrigger.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\obj\Release\net6.0-windows\pixeltrigger.Form1.resources
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\obj\Release\net6.0-windows\pixeltrigger.csproj.GenerateResource.cache
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\obj\Release\net6.0-windows\pixeltrigger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\obj\Release\net6.0-windows\pixeltrigger.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\obj\Release\net6.0-windows\pixeltrigger.AssemblyInfo.cs
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\obj\Release\net6.0-windows\pixeltrigger.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\obj\Release\net6.0-windows\pixeltrigger.dll
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\obj\Release\net6.0-windows\refint\pixeltrigger.dll
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\obj\Release\net6.0-windows\pixeltrigger.pdb
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\obj\Release\net6.0-windows\pixeltrigger.genruntimeconfig.cache
+C:\Users\moham\Desktop\Pixel Trigger Bot\pixeltrigger\pixeltrigger\obj\Release\net6.0-windows\ref\pixeltrigger.dll
